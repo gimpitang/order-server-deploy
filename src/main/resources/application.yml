@@ -18,7 +18,7 @@ spring:
     show-sql: true
 
 jwt:
-  expiration: 50000
+  expiration: 50001
   # 인코딩 된 32자 이상 필요.(특수문자 사용 안됨)
   # beyoundaccesstokensecretkeybeyoundaccesstokensecretkeybeyoundaccesstokensecretkey
   secretKey: YmV5b3VuZGFjY2Vzc3Rva2Vuc2VjcmV0a2V5YmV5b3VuZGFjY2Vzc3Rva2Vuc2VjcmV0a2V5YmV5b3VuZGFjY2Vzc3Rva2Vuc2VjcmV0a2V5
